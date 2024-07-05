@@ -1,0 +1,43 @@
+header{
+    height: 380px; /*Высота Блока*/
+    background-color: rgba(49, 135, 158, 0.463);/*ЦВЕТ ФОНА*/
+    color: aliceblue; /*ЦВЕТ ТЕКСТА*/
+    text-align: center;
+    font-size: 35px;
+}
+main{height: 100%; /*высота блока*/
+    background-color: rgb(red, green, blue)/*цвет фона*/
+    color: aliceblue;/*цвет текст*/
+    text-align: center;
+    font-size: 35px;
+    display: flex;
+}
+.left{
+    width: 50%;
+    font-size: 20px;
+    text-align: justify;
+}
+
+
+.right{ width: 50%;}
+
+footer{height: 250px;
+background-color: rgb(31, 246, 24);
+color: rgb(255, 255, 255);
+text-align: center;
+font-size: 35px;
+padding-top: 20px;
+}
+.social  img{
+    width: 100px;
+    padding-left: 10px;
+}
+.social{
+    list-style: none;
+    display: flex;
+    justify-content: left;
+}
+
+
+
+
